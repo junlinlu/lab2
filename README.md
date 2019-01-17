@@ -1,4 +1,4 @@
-Lab 2
+lab3
 ====
 
-Lab 2 introduces you to static HTML, CSS, and Bootstrap.
+Lab 3 for Winter 2017 COGS120/CSE170 Interaction Design: client-side interactivity
